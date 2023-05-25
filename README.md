@@ -1,4 +1,6 @@
 # Simple-Bank
+![GitHub repo size](https://img.shields.io/github/repo-size/livxy/Simple-Bank) ![GitHub](https://img.shields.io/github/license/livxy/Simple-Bank) ![GitHub Repo stars](https://img.shields.io/github/stars/livxy/Simple-Bank?style=social)
+
 A simple bank system using C, as a beginner project into C.
 
 *Added builds for ease! Using GitHub Actions -* [cmake.yml](.github/workflows/cmake.yml)!
