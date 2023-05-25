@@ -1,0 +1,10 @@
+^D:\A\SIMPLE-BANK\SIMPLE-BANK\BUILDS\WINDOWS\CMAKEFILES\1347F02E7A0E5061D9EDE19D25C3FD7E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/a/Simple-Bank/Simple-Bank -BD:/a/Simple-Bank/Simple-Bank/builds/Windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/a/Simple-Bank/Simple-Bank/builds/Windows/Bank_Simple_C.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

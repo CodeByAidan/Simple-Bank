@@ -1,0 +1,10 @@
+^D:\A\SIMPLE-BANK\SIMPLE-BANK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/a/Simple-Bank/Simple-Bank -BD:/a/Simple-Bank/Simple-Bank/builds/Windows --check-stamp-file D:/a/Simple-Bank/Simple-Bank/builds/Windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
