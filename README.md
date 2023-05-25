@@ -63,6 +63,7 @@ chmod +x Bank_Simple_C
 
 </details>
 
+## Binaries
 
 ### Windows:
 [Bank_Simple_C.exe](builds/Windows/Release)
