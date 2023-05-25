@@ -63,8 +63,6 @@ chmod +x Bank_Simple_C
 
 </details>
 
-<details>
-<summary><h2>Binaries</h2></summary>
 
 ### Windows:
 [Bank_Simple_C.exe](builds/Windows/Release)
@@ -74,5 +72,3 @@ chmod +x Bank_Simple_C
 
 ### macOS:
 [Bank_Simple_C](builds/macOS)
-
-</details>
