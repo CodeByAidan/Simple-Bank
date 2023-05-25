@@ -1,3 +1,0 @@
-/Users/runner/work/Simple-Bank/Simple-Bank/build/macOS/CMakeFiles/Bank_Simple_C.dir
-/Users/runner/work/Simple-Bank/Simple-Bank/build/macOS/CMakeFiles/edit_cache.dir
-/Users/runner/work/Simple-Bank/Simple-Bank/build/macOS/CMakeFiles/rebuild_cache.dir
