@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/Bank_Simple_C.dir/main.c.o CMakeFiles/Bank_Simple_C.dir/BankAccount.c.o -o Bank_Simple_C 

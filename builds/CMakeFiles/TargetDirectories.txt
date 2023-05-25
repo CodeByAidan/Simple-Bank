@@ -1,0 +1,3 @@
+/home/runner/work/Simple-Bank/Simple-Bank/builds/CMakeFiles/Bank_Simple_C.dir
+/home/runner/work/Simple-Bank/Simple-Bank/builds/CMakeFiles/edit_cache.dir
+/home/runner/work/Simple-Bank/Simple-Bank/builds/CMakeFiles/rebuild_cache.dir
