@@ -5,3 +5,6 @@ A simple bank system using C, as a beginner project into C.
 
 ## Builds
 ### Windows:
+[Bank_Simple_C.exe](builds/Windows/Release/Bank_Simple_C.exe)
+
+### Linux:
